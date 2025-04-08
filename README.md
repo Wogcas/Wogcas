@@ -24,7 +24,7 @@
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,discord,github,figma,postman,git,rabbitmq,vscode,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,discord,github,figma,postman,git,rabbitmq,vscode" />
   </a>
 </p>
 <br>
