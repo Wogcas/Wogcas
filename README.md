@@ -16,7 +16,7 @@
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
   </a>
 </p>
 
