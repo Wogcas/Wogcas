@@ -18,7 +18,7 @@
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,github,postman,git,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,github,postman,git,rabbitmq,docker" />
   </a>
 </p>
 <br>
