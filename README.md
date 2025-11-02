@@ -10,7 +10,7 @@
 <h3 align="center">Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,kotlin,css,html,react,bootstrap,nestjs,astrojs" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,kotlin,css,html,react,bootstrap,nestjs" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,github,postman,git,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,github,postman,git,rabbitmq,docker,azure" />
   </a>
 </p>
 <br>
