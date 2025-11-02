@@ -10,7 +10,7 @@
 <h3 align="center">Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,kotlin,css,html,react,bootstrap,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,kotlin,css,html,react,bootstrap,nestjs,astro" />
   </a>
 </p>
 
